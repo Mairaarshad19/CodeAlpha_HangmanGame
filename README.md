@@ -42,13 +42,25 @@ CodeAlpha_Hangman/
 
 ---
 
+## Start Game
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/3900e5a4-bbe5-4b01-9678-d24c05126d9e" />
+
+---
+
 ## Win Game
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/67d3a567-ac29-418c-8fc9-769b96f84502" />
+
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/67d3a567-ac29-418c-8fc9-769b96f84502" />
 
-## Start Game
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/3900e5a4-bbe5-4b01-9678-d24c05126d9e" />
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/3900e5a4-bbe5-4b01-9678-d24c05126d9e" />
+---
+
+## Losing Game
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c58603c4-3f38-4e67-9194-33af798b93b2" />
+
+---
+
+
 
 
 
