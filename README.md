@@ -75,9 +75,18 @@ Run the game:
 ---
 
 ## License
-This project is licensed under the MIT License — see the LICENSE file for details
+This project is licensed under the [MIT License](LICENSE) — see the LICENSE file for details.
 
 
 ---
+
+## Future Improvements
+Add sound effects for correct/wrong guesses 
+Add background images or gradients for more immersive graphics 
+Track high scores across rounds 
+
+
+
+
 
 
