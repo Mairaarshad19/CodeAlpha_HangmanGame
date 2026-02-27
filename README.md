@@ -1,11 +1,11 @@
-# 🎉 Hangman Game 🎉
+# Hangman Game 
 
 A colorful, kid‑friendly Hangman game built with **Python** and **Tkinter**.  
 This project was created as part of the CodeAlpha Internship to demonstrate fundamental programming concepts while delivering a fun, modern UI experience.
 
 ---
 
-## 🚀 Features
+## Features
 - Random word selection from a list of 15 fruits 
 - Score counter (+10 per correct letter, +50 for full word, –5 per wrong guess)
 - Colorful, cheerful UI with emojis and playful fonts
@@ -16,7 +16,7 @@ This project was created as part of the CodeAlpha Internship to demonstrate fund
 
 ---
 
-## 🛠️ Concepts Demonstrated
+## Concepts Demonstrated
 - **Randomization** (`random.choice`)
 - **Loops** (`while`, event loops in Tkinter)
 - **Conditional logic** (`if-else`)
@@ -26,7 +26,7 @@ This project was created as part of the CodeAlpha Internship to demonstrate fund
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 CodeAlpha_Hangman/
 │
 ├── hangman.py        # Main game file
@@ -34,35 +34,50 @@ CodeAlpha_Hangman/
 └── LICENSE           # License file (MIT)
 
 
-## ▶️ How to Run
-1. Clone the repository:
-   git clone https://github.com/<your-username>/CodeAlpha_HangmanGame.git
-2. Run the game:
-      python hangman.py
-
 ---
+
+## How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/<your-username>/CodeAlpha_Hangman.git
+
+2. Navigate into the project folder:
+   cd CodeAlpha_Hangman
+   
+3. Run the game:
+   python hangman.py
+
+   Navigate into the project folder:
+
+bash
+cd CodeAlpha_Hangman
+Run the game:
+
+## Screenshots
 
 ## Start Game
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/3900e5a4-bbe5-4b01-9678-d24c05126d9e" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c8dbc4cc-e5ee-4c18-b6fd-aae911148ed7" />
 
 ---
 
 ## Win Game
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/67d3a567-ac29-418c-8fc9-769b96f84502" />
-
----
-
-## Losing Game
-
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c58603c4-3f38-4e67-9194-33af798b93b2" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/8db03703-465e-4a65-9392-1d033732a591" />
 
 ---
 
 
+## Lose Game
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/35a792a5-c092-4279-a0a5-12e668aded65" />
+
+---
+
+## License
+This project is licensed under the MIT License — see the LICENSE file for details
 
 
-
+---
 
 
